@@ -6,7 +6,7 @@
         portfolio
       </h1>
       <h2 class="subtitle">
-        My Portfolio
+        Kid's Playground
       </h2>
       <div class="links">
         <a
